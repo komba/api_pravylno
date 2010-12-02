@@ -1,0 +1,14 @@
+PravylnoApi
+===========
+
+API for http://pravylno.com.ua
+
+
+Example
+=======
+
+PravylnoApi.get_word
+=> {"right"=>"замовляти", "wrong"=>"заказувати"}
+
+
+Copyright (c) 2010 [komba], released under the MIT license
