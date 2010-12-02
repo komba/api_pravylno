@@ -8,7 +8,7 @@ Example
 =======
 
 PravylnoApi.get_word
-=> {"right"=>"замовляти", "wrong"=>"заказувати"}
+=> {"correct"=>"замовляти", "wrong"=>"заказувати"}
 
 
 Copyright (c) 2010 [komba], released under the MIT license
